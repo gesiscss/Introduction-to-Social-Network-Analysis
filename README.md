@@ -9,4 +9,6 @@ This repository contains notebooks for Social Network Analysis in R for the BIGS
 - Generation of network models
 - Granovetter threshold Model for spreading attributes in social networks
 
+To launch an interactive Jupyter Notebook with executable code, click on "launch Binder":
+
 [![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/v2/gh/JuKo007/BIGSSS/master)
