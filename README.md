@@ -4,6 +4,8 @@ This repository contains notebooks for Social Network Analysis in R for the BIGS
 
 - Introduction to Network Analysis in R using the igraph package
 - Exercises for analyzing and plotting social networks
+- Example Solution for Exercices
+- Example for Community Detection in (undirected) Social Networks
 - Generation of network models
 - Granovetter threshold Model for spreading attributes in social networks
 
